@@ -1,6 +1,6 @@
 # Machine-Vision
 
-
+Image Classifiers (Traditional classifier: In this module, KNN, K-means, and SVM classifiers)&(CNN classifier)
 
 : In this project we explored different techniques used in image classification.
 Different classifiers should be implemented and used to classify RGB images to different categories. 
